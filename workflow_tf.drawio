@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T19:01:36.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0" etag="cBjYTmTYNMNUP1o7VV67" version="22.1.18" type="device">
+<mxfile host="app.diagrams.net" modified="2024-04-21T13:18:57.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="xsdSfgU3v9w-z28eO08F" version="24.2.7" type="google">
   <diagram name="Página-1" id="E35-NctK-QVKj6qJqTT_">
-    <mxGraphModel dx="794" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,11 @@
         <mxCell id="6ymYnt-OKIHyIZnd5Fwz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ymYnt-OKIHyIZnd5Fwz-1" target="6ymYnt-OKIHyIZnd5Fwz-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ymYnt-OKIHyIZnd5Fwz-1" target="8uNOAsqcAC4Zf92Hd2os-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6ymYnt-OKIHyIZnd5Fwz-1" value="Inventarios forestales" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="100" height="90" as="geometry" />
+          <mxGeometry x="-280" y="-80" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6ymYnt-OKIHyIZnd5Fwz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ymYnt-OKIHyIZnd5Fwz-2" target="6ymYnt-OKIHyIZnd5Fwz-7">
           <mxGeometry relative="1" as="geometry" />
@@ -31,28 +34,22 @@
         <mxCell id="6ymYnt-OKIHyIZnd5Fwz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ymYnt-OKIHyIZnd5Fwz-6" target="6ymYnt-OKIHyIZnd5Fwz-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-6" value="Vía 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="120" width="50" height="50" as="geometry" />
+        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-6" value="Imputación" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6ymYnt-OKIHyIZnd5Fwz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ymYnt-OKIHyIZnd5Fwz-7" target="6ymYnt-OKIHyIZnd5Fwz-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-7" value="Vía 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="195" width="50" height="50" as="geometry" />
+        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-7" value="Interpolación" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="195" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-8" value="Densidad de los pinares de repoblación 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-8" value="Densidad de los pinares de repoblación 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-9" value="No tiene sentido reducir la densidad de los pinares poco densso tampoco de los que tienen densidad media" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="130" width="230" height="30" as="geometry" />
+        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-9" value="No tiene sentido reducir la densidad de los pinares poco denso tampoco de los que tienen densidad media" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="42.5" width="230" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ymYnt-OKIHyIZnd5Fwz-9" target="6ymYnt-OKIHyIZnd5Fwz-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="400" as="sourcePoint" />
-            <mxPoint x="430" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-11" value="Densidad de los pinares de repoblación 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="6ymYnt-OKIHyIZnd5Fwz-11" value="Densidad de los pinares de repoblación 3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ymYnt-OKIHyIZnd5Fwz-13" value="Mapa de proximidad (distancia de cada píxel con encinas más cercano)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
@@ -172,6 +169,44 @@
         </mxCell>
         <mxCell id="6ymYnt-OKIHyIZnd5Fwz-67" value="..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="599" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8uNOAsqcAC4Zf92Hd2os-1" target="8uNOAsqcAC4Zf92Hd2os-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-1" value="Imágenes de satélite Copernicus" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="35" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8uNOAsqcAC4Zf92Hd2os-3" target="8uNOAsqcAC4Zf92Hd2os-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-3" value="Teledetección" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="45" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8uNOAsqcAC4Zf92Hd2os-4" target="8uNOAsqcAC4Zf92Hd2os-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-4" value="Densidad de los pinares de repoblación 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8uNOAsqcAC4Zf92Hd2os-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-9" value="Cambio de unidades&lt;div&gt;(% a pies/ha)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8uNOAsqcAC4Zf92Hd2os-14" target="8uNOAsqcAC4Zf92Hd2os-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-14" value="Hacer una regla de tres para reescalar con la densidad mínima y máxima de los inventarios forestales.&amp;nbsp;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="160" width="230" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8uNOAsqcAC4Zf92Hd2os-18" target="6ymYnt-OKIHyIZnd5Fwz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8uNOAsqcAC4Zf92Hd2os-18" value="Densidad de los pinares de repoblación&lt;div&gt;(definitiva)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="40" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
