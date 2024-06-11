@@ -1,0 +1,7 @@
+CARRETERAS:
+Descargar capa desde CNIG de Granada y Almería (rt_tramo_vial)
+Cambiar el SRC al EPSG:25830 de grupo_1 y de la red de carreteras
+Cortar vectorial por capa de máscara (grupo_1)
+Rasterizar red de carreteras con tamaño de píxel 10x10m
+Proximidad (distancia ráster)
+Cortar ráster por capa de máscara con el mapa de proximidad
