@@ -1,7 +1,15 @@
 CARRETERAS:
-Descargar capa desde CNIG de Granada y Almería (rt_tramo_vial)
-Cambiar el SRC al EPSG:25830 de grupo_1 y de la red de carreteras
-Cortar vectorial por capa de máscara (grupo_1)
-Rasterizar red de carreteras con tamaño de píxel 10x10m
-Proximidad (distancia ráster)
-Cortar ráster por capa de máscara con el mapa de proximidad
+- Descargar capa desde CNIG de Granada y Almería (rt_tramo_vial)
+- Cambiar el SRC al EPSG:25830 de grupo_1 y de la red de carreteras
+- Cortar vectorial por capa de máscara (grupo_1)
+- Rasterizar red de carreteras con tamaño de píxel 10x10m
+- Proximidad (distancia ráster)
+- Cortar ráster por capa de máscara con el mapa de proximidad
+
+CAPA DE PINAR:
+- Descargar Inventario Forestal Nacional https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/biodiversidad/mfe_andalucia.html
+- Hacer selección de las capas de pinar y exportarla aparte
+- Rasterizarla
+- Combar (Reproyectar) la capa forestal de SINFO Nevada de 23030 a 25830
+- Combinar ambas capas
+- Cortar ráster por capa de máscara
