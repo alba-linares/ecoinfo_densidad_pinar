@@ -13,3 +13,13 @@ CAPA DE PINAR:
 - Combar (Reproyectar) la capa forestal de SINFO Nevada de 23030 a 25830
 - Combinar ambas capas
 - Cortar ráster por capa de máscara
+
+CAPA DE TEMPERATURAS:
+	MÁXIMAS:
+- En la Rediam, se descarga un ráster con la temperatura máxima del año más caluroso de la última década (2014-2023), que es el 2023. 
+- Se reproyecta (herramienta de Combar) a EPSG:25830
+- Se corta ráster por capa de máscara (la zona de estudio)
+
+	MÍNIMAS:
+- En la Rediam, se descarga un ráster con la temperatura mínima del año más frío de la última década (2014-2023), que es el 2018.
+- Mismo procedimiento que con la anterior.
