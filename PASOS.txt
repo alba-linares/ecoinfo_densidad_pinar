@@ -23,3 +23,6 @@ CAPA DE TEMPERATURAS:
 	MÍNIMAS:
 - En la Rediam, se descarga un ráster con la temperatura mínima del año más frío de la última década (2014-2023), que es el 2018.
 - Mismo procedimiento que con la anterior.
+
+PROFUNDIDAD DEL SUELO:
+- Se usa Pendiente (de GDAL), con procesamiento de bordes y la pendiente expresada en porcentaje. A este proceso le metemos el modelo digital del terreno.
