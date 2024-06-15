@@ -27,3 +27,6 @@ CAPA DE TEMPERATURAS:
 PROFUNDIDAD DEL SUELO:
 - Se usa Pendiente (de GDAL), con procesamiento de bordes y la pendiente expresada en porcentaje. A este proceso le metemos el modelo digital del terreno.
 - Se corta ráster por capa de máscara (la zona de estudio)
+
+
+ESTANDARIZACIÓN: función de Normalización ráster
