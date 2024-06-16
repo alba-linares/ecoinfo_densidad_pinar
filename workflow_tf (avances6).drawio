@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T17:53:38.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ELIRaCLww-opaWFiqchH" version="24.5.4" type="device">
+<mxfile host="app.diagrams.net" modified="2024-06-16T18:14:32.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="yxmp3DodMk8Zmhc_4n0Q" version="24.5.4" type="device">
   <diagram name="Página-1" id="E35-NctK-QVKj6qJqTT_">
-    <mxGraphModel dx="3804" dy="3380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2944" dy="2963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -556,9 +556,6 @@
         </mxCell>
         <mxCell id="KG-nBsaX6Z_d5WBbec5--4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="300" y="430" width="42.75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KG-nBsaX6Z_d5WBbec5--8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="188.12" y="2430" width="42.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KG-nBsaX6Z_d5WBbec5--9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="179" y="1430" width="42.75" height="40" as="geometry" />
